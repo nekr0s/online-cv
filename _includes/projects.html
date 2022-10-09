@@ -23,7 +23,7 @@
         {% if project.link %}
         <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
         {% else %}
-        {{ project.title }}
+        <a data-toggle="tooltip" data-placement="top" title="Project names are coded as per Non-Disclosure Agreement.">{{ project.title }}</a>
         {% endif %}
       </span>
 
