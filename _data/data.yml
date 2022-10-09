@@ -25,7 +25,7 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: Advanced
 
     interests:
       title: Interests
@@ -42,9 +42,11 @@ sidebar:
 career-profile:
     title: About
     summary: |
-      I love writing code to which I can look back and say: "Damn, this is good, did I really write it myself?".
+      I love writing code to which I can look back and say: <i>"Damn, this is good, did I really write it myself?"</i>.
+      <br/>
       I'm an experienced Full Stack Developer with over 4 years of experience. I've written code for both Android applications and Web applications.
       Currently I specialize in Java (Spring Boot, Spring Reactive) and JavaScript/TypeScript (Angular, Vue.js).
+      <br/>
       Experience in Finance and Payment sectors.
 # education:
 #     title: Education
@@ -99,20 +101,16 @@ projects:
     intro: >
       Throughout my journey as a developer I've worked on a number of projects, some of which are:
     assignments:
-      - title: Mars
-        link: "#"
+      - title: Codename Mars
         tagline: "A reactive payment processor that supports both E-commerce and POS payments."
 
-      - title: Aurora
-        link: "#"
+      - title: Codename Jupiter
         tagline: "A workflow platform that digitises and automates end-to-end capital market processes such as bond issuance and post trade data management."
 
-      - title: Specialist Registry
-        link: "#"
+      - title: Codename Saturn
         tagline: "A digital registry that is used by universities and institutes to issue and validate certificates for different proficiencies."
 
-      - title: ERP Admin
-        link: "#"
+      - title: Codename Neptune
         tagline: "A massive ERP application that was used to handle all administrative work for the company as issuing invoices, handling and tracking orders, etc."
 
 # publications:
