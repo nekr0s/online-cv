@@ -101,7 +101,7 @@ projects:
     assignments:
       - title: Mars
         link: "#"
-        tagline: "A reactive payment processor that supports both ecommerce and pos payments."
+        tagline: "A reactive payment processor that supports both E-commerce and POS payments."
 
       - title: Aurora
         link: "#"
