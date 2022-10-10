@@ -111,7 +111,7 @@ projects:
         tagline: "A digital registry that is used by universities and institutes to issue and validate certificates for different proficiencies."
 
       - title: Codename Neptune
-        tagline: "A massive ERP application that was used to handle all administrative work for the company as issuing invoices, handling and tracking orders, etc."
+        tagline: "A massive ERP application that was used to handle all administrative work for the company, e.g., issuing invoices, issuing permits, handling and tracking orders, etc."
 
 # publications:
 #     title: Publications
